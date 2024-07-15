@@ -53,4 +53,4 @@ OBS: Certifique-se de substituir id pelo identificador real do entregador.
 
 # Criador do Projeto
 
- <p>João Paulo Resende Costa e Silva</p> 
+ <p>João Paulo Resende Costa e Silva no Centro Universitário de Brasíla CEUB</p> 
